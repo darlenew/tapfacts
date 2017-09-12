@@ -1,0 +1,41 @@
+{
+  "intents": [
+    {
+      "name": "AMAZON.CancelIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.HelpIntent",
+      "samples": []
+    },
+    {
+      "name": "AMAZON.StopIntent",
+      "samples": []
+    },
+    {
+      "name": "GetNewFactIntent",
+      "samples": [
+        "a fact",
+        "a tap fact",
+        "tell me a fact",
+        "tell me a tap fact",
+        "give me a fact",
+        "give me a tap fact",
+        "tell me trivia",
+        "tell me a tap trivia",
+        "give me trivia",
+        "give me a tap trivia",
+        "give me some information",
+        "give me some tap information",
+        "tell me something",
+        "give me something",
+        "tell me something about tap dancing",
+        "give me a tap dancing fact",
+        "give me a tap dance fact",
+        "tell me a fact about tap dancing",
+        "give me some tap dancing information"
+      ],
+      "slots": []
+    }
+  ]
+}

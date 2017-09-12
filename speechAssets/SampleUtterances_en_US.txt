@@ -1,0 +1,19 @@
+GetNewFactIntent a fact
+GetNewFactIntent a tap fact
+GetNewFactIntent tell me a fact
+GetNewFactIntent tell me a tap fact
+GetNewFactIntent give me a fact
+GetNewFactIntent give me a tap fact
+GetNewFactIntent tell me trivia
+GetNewFactIntent tell me a tap trivia
+GetNewFactIntent give me trivia
+GetNewFactIntent give me a tap trivia
+GetNewFactIntent give me some information
+GetNewFactIntent give me some tap information
+GetNewFactIntent tell me something
+GetNewFactIntent give me something
+GetNewFactIntent tell me something about tap dancing
+GetNewFactIntent give me a tap dancing fact
+GetNewFactIntent give me a tap dance fact
+GetNewFactIntent tell me a fact about tap dancing
+GetNewFactIntent give me some tap dancing information
